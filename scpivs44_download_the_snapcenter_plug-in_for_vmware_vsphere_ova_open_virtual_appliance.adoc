@@ -1,0 +1,25 @@
+---
+sidebar: sidebar 
+permalink: scpivs44_download_the_snapcenter_plug-in_for_vmware_vsphere_ova_open_virtual_appliance.html 
+keywords:  
+summary: Puede descargar el archivo .ova del plugin de SnapCenter para VMware vSphere en el sitio de soporte de NetApp. 
+---
+= Descargue el OVA del plugin de SnapCenter para VMware vSphere (dispositivo virtual abierto)
+:hardbreaks:
+:allow-uri-read: 
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+Puede descargar la `.ova` Archivo del plugin de SnapCenter para VMware vSphere desde el sitio de soporte de NetApp.
+
+La `.ova` File incluye un conjunto de microservicios para la protección de datos de máquinas virtuales y almacenes de datos, que se realizan mediante el plugin de VMware de SnapCenter. Una vez completada la puesta en marcha, todos los componentes se instalan en una máquina virtual Linux del entorno.
+
+.Pasos
+. Inicie sesión en el sitio de soporte de NetApp ( https://mysupport.netapp.com/products/index.html["https://mysupport.netapp.com/products/index.html"^]).
+. En la lista de productos, seleccione *complemento SnapCenter para VMware vSphere* y, a continuación, haga clic en el botón *Descargar la versión más reciente*.
+. Descargue el plugin de SnapCenter para VMware vSphere `.ova` archivar en cualquier ubicación.
+

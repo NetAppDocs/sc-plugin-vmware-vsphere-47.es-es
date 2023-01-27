@@ -1,0 +1,29 @@
+---
+sidebar: sidebar 
+permalink: scpivs44_minimum_vcenter_privileges_required.html 
+keywords:  
+summary: Antes de iniciar la implementación del plugin de SnapCenter para VMware vSphere, debe asegurarse de contar con los privilegios mínimos de vCenter requeridos. 
+---
+= Privilegios mínimos requeridos de vCenter
+:hardbreaks:
+:allow-uri-read: 
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+Antes de iniciar la implementación del plugin de SnapCenter para VMware vSphere, debe asegurarse de contar con los privilegios mínimos de vCenter requeridos.
+
+
+
+== Privilegios requeridos para la función de administrador de vCenter
+
+System.Anónimo System.View System.Read Datastore.Rename Datastore.move Datastore.Delete Datastore.Browse Datastore.FileManagement Datastore.AllocateSpace Network.Assign Host.Config.Storage Host.Config.AdvancedFromConfig.VirtualMachine.VirtualMachine.VirtualVirtualMachine.VirtualVirtualSystem.VirtualVirtualVirtualMachine.Machine.Machine.tarea_DespecupereDespesDespesDespesDespesDespesDespes.archivo.Machine.Machine.Machine.VirtualDespeseraVirtual.Machine.Machine.Operaciones_DespesDespeseraVirtual.Machine.Machine.VirtualDespesereDespeseraVirtual.Machine.Machine.Machine.Machine.F_F_DespesereDespesereDespeseraVirtual.Machine.Machine.Auto.F_DespeseraDeDespeseraVirtual.Machine.Machine.Machine.Machine.F_DespeseraDeDespeseraDeDespeseraDeDespeseraDeDespeseraVirtual.Auto.F_DespeseraVirtual.Machine.Machine.Auto
+
+
+
+== Privilegios requeridos específicos del plugin de SnapCenter para VMware vCenter
+
+NetappSCV.Guest.RestoreFile netappSCV.Recovery.MountUnMount netappSCV.Backup.DeleteBackupJob netappSCV.Configure.ConfigStorageSystems.Delete netappSCV.Recovery.RecoveretSCV.Recover.SCV.Configure BackupExSnapCenter.ConfigStorage.AddUpdate SCV.Backup.RestetesetesSCV.Plugin.SCV.Backup.SCV.Configure.SCV.ConfigStorage.SCV.SCV.SCV.Backup.SCV.SCV.Backup.SCV.Backup.SCV.etapp.esetapetapp.

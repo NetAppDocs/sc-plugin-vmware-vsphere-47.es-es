@@ -1,0 +1,21 @@
+---
+sidebar: sidebar 
+permalink: scpivs44_create_backup_policies.html 
+keywords:  
+summary:  
+---
+= Cree políticas de backup
+:hardbreaks:
+:allow-uri-read: 
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+. En el panel de navegación izquierdo del cliente web de VMware vSphere, haga clic en *Policies* y, a continuación, haga clic en image:scpivs44_image6.png["Error: Falta la imagen gráfica"] *Nueva Política*.
+. En la página *Nueva política de copia de seguridad*, introduzca la información de configuración de la directiva y, a continuación, haga clic en *Agregar*.
++
+Si la directiva se utilizará para las relaciones de mirror-vault, en el campo replicación, debe seleccionar sólo la opción *Actualizar SnapVault después de la copia de seguridad* si desea copiar las copias de seguridad en los destinos de mirror-vault.
+
+

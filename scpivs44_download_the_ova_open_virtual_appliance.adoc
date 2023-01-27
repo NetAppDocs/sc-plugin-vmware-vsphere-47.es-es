@@ -1,0 +1,25 @@
+---
+sidebar: sidebar 
+permalink: scpivs44_download_the_ova_open_virtual_appliance.html 
+keywords:  
+summary: El archivo .ova incluye un conjunto de microservicios para la protección de datos de máquinas virtuales y almacenes de datos, que realiza el plugin de SnapCenter para VMware vSphere. 
+---
+= Descargue el OVA (Open Virtual Appliance)
+:hardbreaks:
+:allow-uri-read: 
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+La `.ova` File incluye un conjunto de microservicios para la protección de datos de máquinas virtuales y almacenes de datos, que se realizan mediante el plugin de SnapCenter para VMware vSphere
+
+
+IMPORTANT: El proceso de descarga no comprueba si existe `scv.ova` archivo. Por lo tanto, antes de descargar debe asegurarse de que no hay otro `scv.ova` El archivo existe en vCenter.
+
+. Inicie sesión en el sitio de soporte de NetApp ( https://mysupport.netapp.com/products/index.html["https://mysupport.netapp.com/products/index.html"^]).
+. En la lista de productos, seleccione *complemento SnapCenter para VMware vSphere* y, a continuación, haga clic en el botón *Descargar la versión más reciente*.
+. Descargue el plugin de SnapCenter para VMware vSphere `.ova` archivar en cualquier ubicación.
+
