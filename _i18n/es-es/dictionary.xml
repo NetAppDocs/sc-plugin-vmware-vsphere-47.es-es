@@ -1555,7 +1555,6 @@
   <block id="6b5aea41c3dc654b49175867b860fb59" category="admonition">Haga clic en el botón *Login*. Debido a un problema conocido de VMware, no utilice la clave ENTER para iniciar sesión. Para obtener más detalles, consulte la documentación de VMware sobre problemas del cliente host integrado ESXi.</block>
   <block id="8851d553950d907b5693f633e5388851" category="list-text">En la página *VMware vSphere Web Client*, haga clic en Menú en la barra de herramientas y, a continuación, seleccione *SnapCenter Plug-in for VMware vSphere*.</block>
   <block id="35b654fd14f12a33551c1993b5321fcb" category="summary">El plugin de SnapCenter para VMware vSphere (SCV) es un dispositivo virtual basado en Linux. Como independiente, ofrece operaciones de backup y restauración rápidas, eficientes con el espacio, consistentes con los fallos y consistentes con las máquinas virtuales para máquinas virtuales, almacenes de datos y VMDK. También funciona con SnapCenter Server para admitir las operaciones de backup y restauración basadas en aplicaciones en entornos VMware para plugins específicos de aplicaciones de SnapCenter.</block>
-  <block id="8c3d0c00ea667e3e0723e5cdc6473a09" category="doc">Documentación del plugin de SnapCenter para VMware vSphere</block>
   <block id="5c6e1d830c6aa20cbea2393e562369b7" category="summary">Es posible crear, modificar y eliminar grupos de recursos de backup, así como realizar operaciones de backup en grupos de recursos.</block>
   <block id="ec972bce7640d5d440d3549702031815" category="doc">Gestione grupos de recursos</block>
   <block id="55410cc294634878d1b4f9650ea5f30c" category="admonition">Los grupos de recursos se denominan trabajos de backup en VSC.</block>
@@ -1930,7 +1929,6 @@
   <block id="a3d53cfe9124531cb5f9bbfefe704326" category="sidebar">Flujos de trabajo de API DE REST para modificar las programaciones integradas</block>
   <block id="f683581d3e75f05f9d9215f9b4696cef" category="sidebar">Renovar</block>
   <block id="3da6944b1baaec4beb70694ac307fd1f" category="sidebar">Actualice a un nuevo parche de la misma versión</block>
-  <block id="3390e3575b3e341afa2b7172ff5b33a7" category="sidebar">Plugin de SnapCenter para VMware vSphere</block>
   <block id="52009bb7ee17227f566cd26a02caee56" category="inline-link-macro"><block ref="52009bb7ee17227f566cd26a02caee56" category="inline-link-rx"></block></block>
   <block id="a1a9afcf552a769c282769271829889a" category="paragraph"><block ref="a1a9afcf552a769c282769271829889a" category="inline-link-macro-rx"></block></block>
   <block id="f99aa604031e5049799e73b5c3748a98" category="inline-link-macro"><block ref="f99aa604031e5049799e73b5c3748a98" category="inline-link-rx"></block></block>
@@ -1939,4 +1937,5 @@
   <block id="dd38f906b37d412de7d1c1dcf4cbf31c" category="paragraph"><block ref="dd38f906b37d412de7d1c1dcf4cbf31c" category="inline-link-macro-rx"></block></block>
   <block id="8acb58cbd50ef1b468a020ee0bd351d3" category="inline-link-macro"><block ref="8acb58cbd50ef1b468a020ee0bd351d3" category="inline-link-rx"></block></block>
   <block id="2352c4e1f4d0024ade0869e00e6243f4" category="paragraph"><block ref="2352c4e1f4d0024ade0869e00e6243f4" category="inline-link-macro-rx"></block></block>
+  <block id="8a7a1ff56675136d7a0bec1d5e693833" category="sidebar">Documentación del plugin de SnapCenter para VMware vSphere 4,7</block>
 </blocks>
